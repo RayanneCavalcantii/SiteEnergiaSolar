@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+#img1{
+    border-radius: 20px;
+    width: 1400px;
+    height: 280px;
+    border-radius: 28px;
+    position: absolute;
+    left: 90px;
+    top: 257px;
+    right:122px ;
+    margin:auto;
+    box-shadow: #29438149 2px 2px 20px;
+}
+header{
+     background-color: #638BB8;
+     position: absolute;
+     width: 100%;
+     height:200px;
+     top: -18px;
+}
+#menu ul{
+        padding:0px;
+        margin:0px;
+        list-style:none;
+
+  
+}
+#menu>ul>li{
+    display: inline-block;
+    font-size: 30pt;
+    text-decoration: underline;
+    margin:10px;
+    font-family: 'Red Hat Text', sans-serif;
+    
+}
+#logo{
+
+    position: absolute;
+    width: 321px;
+    height: 171px;
+    left: 25px;
+    top: 23px;
+    bottom: 32px;
+    
+}
+nav{
+    margin-left: 1000px;
+    margin-top: 130px;
+    
+   }
+   body{
+       margin:0px;
+       background-color:#2e64a223;
+   }
+#menu li a:hover{
+    color:rgba(6, 105, 105, 0.363) ;
+}
+#menu li a{
+    color:#294481;
+}
+#menu li a:active{
+    color: black;
+}
+ 
+ #container{
+     
+       display: flex;
+       flex-direction:row;
+        flex-wrap: nowrap;
+    background-color:#638bb831;
+
+        width: 1000px;
+        height: 500px;
+        margin: auto;
+        border-radius: 20px;
+        padding: 5px;
+       margin-top: 200px;
+       margin-bottom: 100px;
+       box-shadow: #29438149 2px 2px 15px;
+ }
+ #container>div{
+     padding-left: 56px;
+     padding-top: 40px;
+     padding-right: 30px;
+     padding-bottom: 30px;
+     margin:auto;
+ }
+ .ok{
+    width: 400px;
+height: 327px;
+left: 102px;
+top: 665px;
+border-radius: 7px;
+
+ }
+ footer{
+     background-color: #F0C387
+     ;
+     margin-top: 30px;
+     height: 90px;
+ }
+ .txt{
+     font-size: 30px;
+ }
+ .txt p{
+    font-size: 30px;
+    color: #030c20;
+   
+}
+a{
+    color: #030c20;
+}
+
+a>p:hover{
+    color: #030c2036; 
+}
+#divimg{
+    margin-left: 50px;
+  
+}
+#mao{
+    margin-top: 600px;
+    margin-right: px;
+    float:left ;
+    
+}
+#txtt{
+    font-size: 40px;
+    position: absolute;
+    top:680px;
+    left: 700px;
+    font-family: 'Roboto', sans-serif;
+    color:#294481;
+}
